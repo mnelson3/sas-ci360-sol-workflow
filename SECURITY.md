@@ -12,7 +12,7 @@ Only the latest commit on the `main` branch is supported with security fixes. `d
 
 Please do not report security vulnerabilities by opening a public issue.
 
-Instead, email **mark.a.nelson@outlook.com** with:
+Instead, email **support@nelsongrey.com** with:
 
 - A description of the vulnerability and its potential impact
 - Steps to reproduce, or a proof of concept if available

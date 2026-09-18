@@ -36,4 +36,4 @@ For security-related issues, please do not open a public GitHub issue. See [SECU
 ### Commercial Support
 
 This is an independent, third-party client library and is not affiliated with or endorsed by SAS Institute. For commercial licensing and enterprise support, contact:
-- Email: info@nelsongrey.com
+- Email: support@nelsongrey.com
