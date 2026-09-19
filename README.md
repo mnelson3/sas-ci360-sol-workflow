@@ -2,6 +2,8 @@
 
 ## SAS 360 SOLUTIONS - Workflow Module
 
+> **Status: canonical.** This is the actively maintained client for the Workflow API.
+
 This repository provides a Python client for SAS Customer Intelligence 360 Workflow APIs.
 
 This is an independent, third-party client library maintained by Nelson Grey LLC. It is not affiliated with or endorsed by SAS Institute.
